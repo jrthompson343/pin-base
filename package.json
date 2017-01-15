@@ -1,0 +1,19 @@
+{
+  "name": "pin-base",
+  "version": "0.0.1",
+  "description": "Simple no-sql database for raspberry pi node applications.",
+  "main": "PinBaseCore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrthompson343/pin-base.git"
+  },
+  "author": "Jonathan Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrthompson343/pin-base/issues"
+  },
+  "homepage": "https://github.com/jrthompson343/pin-base#readme"
+}
